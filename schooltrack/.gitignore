@@ -1,0 +1,14 @@
+# Virtualno okruženje
+venv/
+
+# Python privremene datoteke
+__pycache__/
+*.pyc
+
+# SQLite baza podataka
+*.sqlite3
+
+# IDE specifične datoteke (opcionalno)
+.idea/
+.vscode/
+.DS_Store
